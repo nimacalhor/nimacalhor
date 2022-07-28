@@ -1,3 +1,3 @@
 Hello, I'm Nima Kalhor...
 ### ( ͠ಠ  ͟ʖ ͠ಠ )
-I like javascript
+I like **.tsx
