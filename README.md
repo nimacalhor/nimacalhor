@@ -1,4 +1,8 @@
-## About Me
+## 
+███████████████████████████████████████████████
+██▀▄─██▄─▄─▀█─▄▄─█▄─██─▄█─▄─▄─███▄─▀█▀─▄█▄─▄▄─█
+██─▀─███─▄─▀█─██─██─██─████─██████─█▄█─███─▄█▀█
+▀▄▄▀▄▄▀▄▄▄▄▀▀▄▄▄▄▀▀▄▄▄▄▀▀▀▄▄▄▀▀▀▀▄▄▄▀▄▄▄▀▄▄▄▄▄▀
 
 Hi there! I'm Nima Kalhor, I'm a web developer experienced in both frontend and backend work. I enjoy problem-solving and working with modern technologies to create efficient and organized solutions.
 
